@@ -22,4 +22,4 @@ labels: ["enhancement"]
 <!-- List any specific requirements or conditions this feature must meet. -->
 
 - [ ] Requirement 1
-- [ ] etc
+- [ ] Requirement 2
