@@ -7,7 +7,7 @@ body:
     id: description
     attributes:
       label: "概要"
-      description: "この機能が何であるか、簡潔と明確に説明してください。"
+      description: "この機能が何であるか、簡潔に説明してください。"
       placeholder: "ここに機能の説明を書いてください..."
     validations:
       required: true
@@ -16,7 +16,7 @@ body:
     attributes:
       label: "理由"
       description: "なぜこの機能が必要なのか、どんな問題を解決するのかを説明してください。"
-      placeholder: "ここに理由の説明を書いてください..."
+      placeholder: "ここに理由を書いてください..."
     validations:
       required: true
   - type: textarea
@@ -32,7 +32,7 @@ body:
     attributes:
       label: "要件"
       description: |
-        この機能が満たすべきな要件や条件を記入してください。
+        この機能が満たすべき要件や条件を記入してください。
         `- [ ] ` この形式でチェックリストを自由に作成してください。
 
         Example:
